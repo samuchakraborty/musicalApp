@@ -1,8 +1,6 @@
 name: musicalApp
 description: A Simple Musical App
 
-
-
 version: 1.0.0+1
 
 environment:
@@ -14,6 +12,7 @@ dependencies:
 
 
   cupertino_icons: ^1.0.0
+  audioplayers: 0.16.0
 
 dev_dependencies:
   flutter_test:
